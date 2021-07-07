@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.exe
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.deps.json
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.dll
+C:\Users\abdul\Desktop\C#\variable\variable\variable\bin\Debug\netcoreapp3.1\variable.pdb
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.dll
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.pdb
+C:\Users\abdul\Desktop\C#\variable\variable\variable\obj\Debug\netcoreapp3.1\variable.genruntimeconfig.cache

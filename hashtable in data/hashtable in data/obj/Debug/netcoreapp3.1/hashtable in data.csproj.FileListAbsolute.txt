@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.exe
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.deps.json
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.dll
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\bin\Debug\netcoreapp3.1\hashtable in data.pdb
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.dll
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.pdb
+C:\Users\abdul\Desktop\C#\hashtable in data\hashtable in data\obj\Debug\netcoreapp3.1\hashtable in data.genruntimeconfig.cache

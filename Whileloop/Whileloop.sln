@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whileloop", "Whileloop\Whileloop.csproj", "{B9126E28-FDB9-48EF-86AA-954A24E8046B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do while", "..\do while\do while\do while.csproj", "{66493C12-6440-4CA1-9762-B447CB54DE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9126E28-FDB9-48EF-86AA-954A24E8046B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9126E28-FDB9-48EF-86AA-954A24E8046B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9126E28-FDB9-48EF-86AA-954A24E8046B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9126E28-FDB9-48EF-86AA-954A24E8046B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66493C12-6440-4CA1-9762-B447CB54DE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66493C12-6440-4CA1-9762-B447CB54DE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66493C12-6440-4CA1-9762-B447CB54DE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66493C12-6440-4CA1-9762-B447CB54DE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F9A508-E694-4469-9F88-F283615EBB09}
+	EndGlobalSection
+EndGlobal

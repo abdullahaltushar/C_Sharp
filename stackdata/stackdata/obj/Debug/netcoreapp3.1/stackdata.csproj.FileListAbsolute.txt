@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.exe
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.deps.json
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.dll
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\bin\Debug\netcoreapp3.1\stackdata.pdb
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.dll
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.pdb
+C:\Users\abdul\Desktop\C#\stackdata\stackdata\obj\Debug\netcoreapp3.1\stackdata.genruntimeconfig.cache

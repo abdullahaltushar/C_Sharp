@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.exe
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.deps.json
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.dll
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\bin\Debug\netcoreapp3.1\dowhlie.pdb
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.dll
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.pdb
+C:\Users\abdul\Desktop\C#\dowhlie\dowhlie\obj\Debug\netcoreapp3.1\dowhlie.genruntimeconfig.cache

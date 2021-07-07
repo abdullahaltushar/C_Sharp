@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.exe
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.deps.json
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.dll
+C:\Users\abdul\Desktop\C#\take input\input\input\bin\Debug\netcoreapp3.1\input.pdb
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.dll
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.pdb
+C:\Users\abdul\Desktop\C#\take input\input\input\obj\Debug\netcoreapp3.1\input.genruntimeconfig.cache

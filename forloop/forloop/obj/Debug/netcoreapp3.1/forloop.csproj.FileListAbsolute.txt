@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.exe
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.deps.json
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.dll
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\bin\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.dll
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.pdb
+C:\Users\abdul\Desktop\C#\array\forloop\forloop\obj\Debug\netcoreapp3.1\forloop.genruntimeconfig.cache

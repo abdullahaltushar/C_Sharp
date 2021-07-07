@@ -1,0 +1,13 @@
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\abdul\Desktop\C#\method\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\abdul\Desktop\C#\method\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache

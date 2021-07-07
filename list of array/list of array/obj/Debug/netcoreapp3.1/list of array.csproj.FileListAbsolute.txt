@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.exe
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.deps.json
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.dll
+C:\Users\abdul\Desktop\C#\list of array\list of array\bin\Debug\netcoreapp3.1\list of array.pdb
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.dll
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.pdb
+C:\Users\abdul\Desktop\C#\list of array\list of array\obj\Debug\netcoreapp3.1\list of array.genruntimeconfig.cache

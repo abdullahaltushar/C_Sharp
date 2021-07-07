@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.exe
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.deps.json
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.dll
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\bin\Debug\netcoreapp3.1\Whileloop.pdb
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.dll
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.pdb
+C:\Users\abdul\Desktop\C#\array\Whileloop\Whileloop\obj\Debug\netcoreapp3.1\Whileloop.genruntimeconfig.cache

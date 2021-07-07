@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.exe
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.deps.json
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.runtimeconfig.json
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.dll
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.pdb
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.AssemblyInfo.cs
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.dll
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.pdb
+C:\Users\abdul\Desktop\C#\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.genruntimeconfig.cache
