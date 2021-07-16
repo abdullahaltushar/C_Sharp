@@ -1,0 +1,13 @@
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.exe
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.deps.json
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.runtimeconfig.json
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.runtimeconfig.dev.json
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.dll
+C:\Users\abdul\source\repos\onetoone\onetoone\bin\Debug\netcoreapp3.1\onetoone.pdb
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.AssemblyInfo.cs
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.dll
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.pdb
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetoone.genruntimeconfig.cache

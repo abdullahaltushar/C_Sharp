@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe.config
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.pdb
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.Form1.resources
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.Properties.Resources.resources
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.exe
+C:\Users\abdul\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.pdb

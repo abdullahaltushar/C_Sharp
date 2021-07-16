@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Form1.resources
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+C:\Users\abdul\source\repos\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb

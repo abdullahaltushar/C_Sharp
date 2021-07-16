@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\userform\userform\bin\Debug\userform.exe.config
+C:\Users\abdul\source\repos\userform\userform\bin\Debug\userform.exe
+C:\Users\abdul\source\repos\userform\userform\bin\Debug\userform.pdb
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.Form1.resources
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.Properties.Resources.resources
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.exe
+C:\Users\abdul\source\repos\userform\userform\obj\Debug\userform.pdb

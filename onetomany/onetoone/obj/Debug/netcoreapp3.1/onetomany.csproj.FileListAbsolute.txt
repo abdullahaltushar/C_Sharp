@@ -1,0 +1,4 @@
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetomany.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetomany.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetomany.AssemblyInfo.cs
+C:\Users\abdul\source\repos\onetoone\onetoone\obj\Debug\netcoreapp3.1\onetomany.csproj.CoreCompileInputs.cache
